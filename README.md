@@ -11,6 +11,15 @@ References:
 * [ZoomEvent](https://openjfx.io/javadoc/14/javafx.graphics/javafx/scene/input/ZoomEvent.html)
 * [RotateEvent](https://openjfx.io/javadoc/14/javafx.graphics/javafx/scene/input/RotateEvent.html)
 
+# How To use
+
+1. start the app by executing
+
+    mvn exec:exec
+    
+2. try gestures inside opened window
+3. Messages will appear in the console
+
 # Actual behaviour
 
 These events work differently on different devices.
